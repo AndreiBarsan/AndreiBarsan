@@ -6,8 +6,6 @@ Recently, I've been working on [simultaneous localziation and mapping (SLAM) for
 
 My [website](andreibarsan.github.io) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=nOj2GykAAAAJ) have more detailed lists of my current and past work!
 
-Please don't hesitate to e-mail me if you'd like to get in touch! My address is on my website!
-
 <!--
 **AndreiBarsan/andreibarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
