@@ -3,6 +3,7 @@
 Check out my website [here](andreibarsan.github.io), or some of the projects that I've worked on below! ⬇️
 
 Recently, I've been working on [simultaneous localization and mapping (SLAM) for multi-camera robots](https://arxiv.org/abs/2101.06562) and on [exploring how to jointly perform efficient multi-task learning for self-driving cars](https://arxiv.org/abs/2101.06720)! More papers on [my website](andreibarsan.github.io) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=nOj2GykAAAAJ)!
+
 ![bouncing blob says hi!](blob.gif)
 <!--
 **AndreiBarsan/andreibarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
