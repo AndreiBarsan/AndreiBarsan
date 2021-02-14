@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Andrei and I work on computer vision for autonomous robots. 🤖
+### Hi! 👋  I'm Andrei and I work on computer vision for autonomous robots. 🤖
 
 Check out my website [here](andreibarsan.github.io), or some of the projects that I've worked on below! ⬇️
 
