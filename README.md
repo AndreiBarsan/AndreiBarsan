@@ -1,8 +1,8 @@
-### Hi! 👋  I'm Andrei and I work on computer vision for autonomous robots. 🤖
+### Hi! 👋  I'm Andrei and I work on neural rendering and 3D reconstruction for autonomous robots. 🤖
 
 Check out my website [here](https://andreibarsan.github.io), or some of the projects that I've worked on below! ⬇️
 
-I am currently Staff Scientist at Waabi.ai, leading one of the teams working on sensor simulation for autonomous vehicles.
+I am currently Staff Scientist and TLM at Waabi.ai, leading one of the teams working on sensor simulation for autonomous vehicles.
 
 Before that, I worked on [simultaneous localization and mapping (SLAM) for multi-camera robots](https://arxiv.org/abs/2101.06562) and on [exploring how to jointly perform efficient multi-task learning for self-driving cars](https://arxiv.org/abs/2101.06720)! 
 
